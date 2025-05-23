@@ -1,2 +1,2 @@
-# JS-Fundamentals
-Fundamentals of JavaScript
+# Fundamentals of JavaScript
+
