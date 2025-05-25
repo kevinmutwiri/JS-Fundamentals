@@ -7,3 +7,4 @@
 - [4-concat.js](./4-concat.js) - Print the two arguments passed.
 - [5-to_integer.js](./5-to_integer.js) - Convert to integer.
 - [6-multi_languages_loop.js](./6-multi_languages_loop.js) - Loop to print.
+- [7-multi_c.js](./7-multi_c.js) - Print `x` times.
