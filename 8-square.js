@@ -11,6 +11,6 @@ else
     size = parseInt(args[2]);
     for (let i = 0; i < size; i++)
     {
-        console.log('x'.repeat(size));
+        console.log("X".repeat(size));
     }
 }
