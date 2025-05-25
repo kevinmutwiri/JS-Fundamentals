@@ -5,3 +5,4 @@
 - [2-arguments.js](./2-arguments.js) - Print message depending on number of arguments passed.
 - [3-value_argument.js](./3-value_argument.js) - Print the first argument passed.
 - [4-concat.js](./4-concat.js) - Print the two arguments passed.
+- [5-to_integer.js](./5-to_integer.js) - Convert to integer.
