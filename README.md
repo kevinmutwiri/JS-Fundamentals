@@ -9,3 +9,4 @@
 - [6-multi_languages_loop.js](./6-multi_languages_loop.js) - Loop to print.
 - [7-multi_c.js](./7-multi_c.js) - Print `x` times.
 - [8-square.js](./8-square.js) - Print a square.
+- [9-add.js](./9-add.js) - Print addition of 2 integers.
